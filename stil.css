@@ -1,0 +1,15 @@
+#container{
+	width: 1140px;
+	background-color: rgb(228, 208, 247);
+}
+#blog-container{
+	width: 75%;
+    float: left;
+	background-color: rgb(229, 235, 171);
+}
+
+#diger-postlarım{
+	width: 25%;
+    float: left;
+	background-color: rgb(145, 229, 159);
+}
